@@ -1,5 +1,5 @@
 #################### default parameters ################################
-logo = "images/logo.png"
+logo = "images/logo.svg"
 logo_width = "200px"
 # Meta data
 description = "AashrayBuild Construction and Service"

@@ -35,21 +35,29 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "Planning and Drawing"
       images:
-      - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - "images/planning_drawing.svg"
+      content : "Provice detailed overview of the building."
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Structural Consultant"
       images:
-      - "images/service-1.png"
+      - "images/consultant.svg"
+      content : "We ensure that building are build strong and durable."
+      button:
+        enable : false
+        label : "Check it out"
+        link : "#"
+        
+    # service item loop
+    - title : "3D Modeling"
+      images:
+      - "images/3d_modeling.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : false
@@ -57,25 +65,35 @@ service:
         link : "#"
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "Estimate and Valuation"
       images:
-      - "images/service-2.png"
+      - "images/estimate_valuation.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
-        
+
     # service item loop
-    - title : "A company standing different from others"
+    - title : "Interior Design"
       images:
-      - "images/service-3.png"
+      - "images/interior_design.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
-        
+
+    # service item loop
+    - title : "Other Building services"
+      images:
+      - "images/other_building_services.svg"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : false
+        label : "Check it out"
+        link : "#"
+
 ################### Screenshot ########################
 screenshot:
   enable : false
