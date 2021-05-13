@@ -24,27 +24,27 @@ name = "Quick Start"
 url = "contact"
 
 # footer menu middle
-[[footer_middle]]
-name = "Pricing"
-url = "pricing"
+# [[footer_middle]]
+# name = "Pricing"
+# url = "pricing"
 
-[[footer_middle]]
-name = "Platform"
-url = "#"
+# [[footer_middle]]
+# name = "Platform"
+# url = "#"
 
-[[footer_middle]]
-name = "Features"
-url = "#"
+# [[footer_middle]]
+# name = "Features"
+# url = "#"
 
 # footer menu right
-[[footer_right]]
+[[footer_middle]]
 name = "Privacy Policy"
 url = "privacy-policy"
 
-[[footer_right]]
+[[footer_middle]]
 name = "Terms & Conditions"
 url = "terms-conditions"
 
-[[footer_right]]
+[[footer_middle]]
 name = "FAQ"
 url = "faq"
