@@ -11,7 +11,7 @@ banner:
 
 ##################### Feature ##########################
 feature:
-  enable : true
+  enable : false
   title : "Something You Need To Know"
   feature_item:
     # feature item loop
@@ -78,18 +78,16 @@ service:
         
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Experience the best <br> workflow with us"
   image : "images/screenshot.svg"
-
-  
 
 ##################### Call to action #####################
 call_to_action:
   enable : true
   title : "Ready to get started?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "It's easy to talk to us."
   button:
     enable : true
     label : "Contact Us"
