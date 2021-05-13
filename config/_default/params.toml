@@ -2,15 +2,15 @@
 logo = "images/logo.png"
 logo_width = "200px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "AashrayBuild Construction and Service"
+author = "Amol"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
 # Preloader
 [preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
+enable = true
+preloader = "images/logo.png" # use jpg, png, svg or gif format.
 
 # Navigation buttons
 [navigation_button]
@@ -23,19 +23,14 @@ link = "contact"
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/AashrayBuild"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/AashrayBuild"
 
 [[social]]
-title = "skype"
-icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[social]]
-title = "linkedin"
-icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "Instagram"
+icon = "fab fa-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/aashraybuild/"

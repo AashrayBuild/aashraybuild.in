@@ -5,16 +5,6 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog"
-weight = 2
-
-[[main]]
-name = "Pricing"
-url = "pricing"
-weight = 3
-
-[[main]]
 name = "Contact"
 url = "contact"
 weight = 4
@@ -31,12 +21,7 @@ url = "#"
 
 [[footer_left]]
 name = "Quick Start"
-url = "#"
-
-[[footer_left]]
-name = "Pricing"
-url = "pricing"
-
+url = "contact"
 
 # footer menu middle
 [[footer_middle]]

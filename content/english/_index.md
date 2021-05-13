@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Design, plan and build your home with <br> different services provided by us"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "We provides different kinds of services related to construction."
   button:
     enable : true
     label : "Contact With Us"
@@ -15,35 +15,19 @@ feature:
   title : "Something You Need To Know"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "Easy to communicate"
       icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Contact us freely for any kind of service that you want."
       
     # feature item loop
-    - name : "Object Oriented"
+    - name : "Wide variety of services"
       icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We provide everything you required for building your home."
       
     # feature item loop
     - name : "Value For Money"
       icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+      content : "Reasonable cost to every services."
 
 
 ######################### Service #####################
@@ -68,7 +52,7 @@ service:
       - "images/service-1.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
         
