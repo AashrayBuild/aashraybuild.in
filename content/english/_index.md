@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Design, plan and build your home with <br> different services provided by us"
+  title : "Concept your creations"
   image : "images/banner-art.svg"
-  content : "We provides different kinds of services related to construction."
+  content : "Effective planning, efficient design and quality constructions are all combined in **AashrayBuild**. We will provide you the best construction related services under one roof."
   button:
     enable : true
     label : "Contact With Us"
@@ -38,7 +38,7 @@ service:
     - title : "Planning and Drawing"
       images:
       - "images/planning_drawing.svg"
-      content : "Provice detailed overview of the building."
+      content : "We produce detailed overview of the buildings as per customer's requirements and engineering skills that includes building principles and architectural views."
       button:
         enable : false
         label : "Check it out"
@@ -48,7 +48,7 @@ service:
     - title : "Structural Consultant"
       images:
       - "images/consultant.svg"
-      content : "We ensure that building are build strong and durable."
+      content : "We provide assistance for buildings so that they are built to be strong, durable, economical and stable enough to resist all appropriate structural loads."
       button:
         enable : false
         label : "Check it out"
@@ -58,7 +58,7 @@ service:
     - title : "3D Modeling"
       images:
       - "images/3d_modeling.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "We develop 3D models that represents high personalization of the structure and also create photorealistic rendering as well as do and re-do your models until it matches your expectations."
       button:
         enable : false
         label : "Check it out"
@@ -68,7 +68,7 @@ service:
     - title : "Estimate and Valuation"
       images:
       - "images/estimate_valuation.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Our company provides probable cost of the construction for the work and also suggest the valuation for under-developed, owner-occupied, vacant possession or uncultivated properties."
       button:
         enable : false
         label : "Check it out"
@@ -78,7 +78,7 @@ service:
     - title : "Interior Design"
       images:
       - "images/interior_design.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "<i>As we evolve our homes should, too.</i><br> We are committed to delivering inspired interiors that fulfill client's expectations through exceptional service. Our goal is always to create <br>designs tailored to our clients' unique personal styles and practical needs."
       button:
         enable : false
         label : "Check it out"
@@ -88,7 +88,7 @@ service:
     - title : "Other Building services"
       images:
       - "images/other_building_services.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Need any help?<br> We offer end-to-end solutions to personalize your building design."
       button:
         enable : false
         label : "Check it out"
@@ -105,7 +105,7 @@ call_to_action:
   enable : true
   title : "Ready to get started?"
   image : "images/cta.svg"
-  content : "It's easy to talk to us."
+  content : "We listen to you needs,<br> Design it to your specifications, and<br> Built it to your dreams!"
   button:
     enable : true
     label : "Contact Us"

@@ -7,9 +7,20 @@ draft: false
 ---
 
 
-### Why you should contact us!
-Feel free to ask any question in your mind.
+### Have we caught your attention?
+Do not hesitate to contact us. Feel free to ask. We are at your service.
 
-* **Phone: +91 959 598 6195** 
-* **Mail: info@aashraybuild.in**
-* **Address: Kurudwad, Dist-Kolhapur, Maharashtra, India**
+<hr>
+<h3>Contact Information</h3>
+
+<h4>Email</h4>
+
+info@aashraybuild.in
+
+<h4>Phone</h4>
+
+**Amol**: (+91) 959 598 6195
+
+<h4>Mailing Address (PO Box)</h4>
+
+Amol Gaikwad, A/P: Kurudwad, Dist-Kolhapur, Maharashtra, India, 416106
