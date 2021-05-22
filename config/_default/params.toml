@@ -9,8 +9,8 @@ contact_form_action = "#" # contact form works with https://formspree.io
 
 # Preloader
 [preloader]
-enable = true
-preloader = "images/logo.png" # use jpg, png, svg or gif format.
+enable = false
+preloader = "images/logo.svg" # use jpg, png, svg or gif format.
 
 # Navigation buttons
 [navigation_button]
