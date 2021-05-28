@@ -19,7 +19,9 @@ info@aashraybuild.in
 
 <h4>Phone</h4>
 
-**Amol**: (+91) 959 598 6195
+**Amol Gaikwad**: (+91) 959-598-6195 <br>
+**Shreyas Sutar**: (+91) 777-681-7154 <br>
+**Abhishek Khot**: (+91) 839-057-6788
 
 <h4>Mailing Address (PO Box)</h4>
 
